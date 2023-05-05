@@ -2,6 +2,7 @@
 
 ## Main concepts
 
-- Pretty
-- Theme switcher (light/dark/system preference)
-- prefers-colors-scheme media query  
+- pretty
+- theme switcher (light/dark/system preference)
+- prefers-colors-scheme media query
+- using scss and gulp
